@@ -1,4 +1,9 @@
-## Hi there 👋
+# LOS creativos y los programadores tienen más en comun de lo que piensan...
+A la hora de resolver de resolver problemas, estudios han demostrado que una de las partes del cerebro con mayor actividad es el lobulo frontal. El cual también se activa al momento de realizar actividades creativas.
+Soy Oriel Romero, Técnico en informatica especializado con background en producción y realización audiovisual... Para que se entienda mejor, me forme como técnio, luego se me dio por ser artis y al final me di cuenta que extrañaba estar rodeado de computadoras!
+
+¿Pero esto que tiene que ver  con github? Bueno, existe un area en el rubro audiovisual, en la que me siento muy comodo y les voy a explica
+
 
 <!--
 **oriel-r/oriel-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
