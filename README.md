@@ -1,6 +1,7 @@
 ---
 output:
-  theme: yeti
+  html_document:
+    theme: yeti
 ---
 
 ## Entonces ¿De creativo a programador?
