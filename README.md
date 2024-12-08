@@ -1,5 +1,5 @@
 ## Entonces ¿De creativo a programador?
-Asi es, y si venis de mis otras redes ya sabes a que viene esto esto, pero como dicen por ahi, el publico se renueva así que en els siguiente parrafor te dejo un breve resumen
+Asi es, y si venis de mis otras redes ya sabes a que viene esto esto, pero como dicen por ahi, el publico se renueva así que en los siguiente parrafor te dejo un breve resumen
 
 Soy técnico en informatica y me especialize en el desarrollo web, pero algo paso en el medio... Antes de formarme como desarrollador estudie cine, y en este rubro lo que más me gusta es la pruducción, que para resumir un poco consiste en: encontrar soluciones creativas a problemas para hacer que las cosas pasen.
 
@@ -15,6 +15,9 @@ Bueno peliculas no, a veces lo obvio es lo menos obvio. Te encontraras proyectos
 <details>
   <summary><b>¿Con qué tecnologías trabajo?</b></summary>
   <p>Actualmente con</p>
+  <img src="node-js-svgrepo-com.svg" alt="Ejemplo de imagen" width="50">
+  <img src="node-js-svgrepo-com.svg" alt="Ejemplo de imagen" width="50">
+  <img src="node-js-svgrepo-com.svg" alt="Ejemplo de imagen" width="50">
   <img src="node-js-svgrepo-com.svg" alt="Ejemplo de imagen" width="50">
 </details>
 
