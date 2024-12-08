@@ -8,8 +8,14 @@ Bueno peliculas no, a veces lo obvio es lo menos obvio. Te encontraras proyectos
 
 **¿Qué tecnologias/lenguages suelo  usar?**
 Actualmente trabajo con:
-![Nodejs](node-js-svgrepo-com.svg)
+<img src="node-js-svgrepo-com.svg" alt="Ejemplo de imagen" width="100">
+
 Pero me gusta POO y todo lo que implique automatizar, así que espero agregar lenguajes como Java o Kotlin y Phyton, prximamente
+
+<details>
+  <summary>Hacer clic para ver más</summary>
+  <p>Contenido del desplegable</p>
+</details>
 
 **¿Que si me interesa colaborar en proyectos open source? Claro!**   
 Aca viene la letra chica, todo depende también del proyecto y los requirimientos del mismo. Pero siempre y cuando pueda aportar algo y los tiempos me den, ahí estare
