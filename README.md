@@ -13,17 +13,30 @@ Bueno peliculas no, a veces lo obvio es lo menos obvio. Te encontraras proyectos
 <details>
   <summary><b>¿Con qué tecnologías trabajo?</b></summary>
   <p>Actualmente con</p>
-<img src="node-js-svgrepo-com.svg" alt="Ejemplo de imagen" width="50">
-  <summary><b>¿Me interesa alguna otra tecnologia en particular?</b></summary>
+  <img src="node-js-svgrepo-com.svg" alt="Ejemplo de imagen" width="50">
+</details>
+
+<details>
+  <summary><b>¿Me interesa alguna otra tecnología en particular?</b></summary>
   <p>Contenido del desplegable</p>
-  <summary><b>¿Me interesa alguna tecnologia en particular?</b></summary>
-  <p>Contenido del desplegable</p>
+</details>
+
+<details>
   <summary><b>¿Quiero colaborar en proyectos?</b></summary>
   <p>Contenido del desplegable</p>
-  <summary><b>¿Que licencia tienen mis desarrollos?</b></summary>
+</details>
+
+<details>
+  <summary><b>¿Qué licencia tienen mis desarrollos?</b></summary>
   <p>Contenido del desplegable</p>
+</details>
+
+<details>
   <summary><b>¿Uso IA a la hora de programar?</b></summary>
   <p>Contenido del desplegable</p>
+</details>
+
+<details>
   <summary><b>¿Cómo te contacto?</b></summary>
   <p>Contenido del desplegable</p>
 </details>
