@@ -1,12 +1,12 @@
 ## Entonces ¿De creativo a programador?
-¡Así es! Y si venís de mis otras redes, ya sabés de qué va esto. Pero, como dicen por ahí, el público se renueva, así que en los siguientes párrafos te dejo un breve resumen.
+¡Así es! Y si venís de mis otras redes, ya sabés de qué va esto. Pero, como dicen por ahí, _el público se renueva_ así que en los siguientes párrafos te dejo un breve resumen.
 
-Soy técnico en informática y me forme como desarrollodor web, más concretamente en back-end, pero algo pasó en el medio... Antes de formarme como desarrollador, estudié cine. En este rubro, lo que más me gusta es la producción, que, para resumirlo un poco, consiste en: encontrar soluciones creativas a problemas para hacer que las cosas pasen.
+Soy técnico en informática y me forme como desarrollodor web, más concretamente en back-end, pero algo pasó en el medio... Antes de formarme como desarrollador, estudié cine; En este rubro lo que más me gusta es la producción, que para resumirlo un poco consiste en: encontrar soluciones creativas a problemas para hacer que las cosas pasen.
 
 Durante este tiempo, noté cómo el software podía facilitar mi trabajo, aunque no siempre encontraba herramientas adecuadas. Fan de Excel y ahora amante de Notion, decidí crear mis propias soluciones. Así, retomé mi formación técnica, participé en un bootcamp, ¡y acá estamos!
 
 **¿Que podes encontrar aca?**  
-Te encontrarás con proyectos en los cuales busco formas creativas de solucionar problemas, haciendo que las cosas pasen. No siempre relacionados con el sector audiovisual, también abarco otras áreas de mi interés. ¡Te invito a verlos y aportar!
+Te encontrarás con proyectos en los cuales _busco formas creativas de solucionar problemas, haciendo que las cosas pasen_. No siempre relacionados estrictamente con el sector audiovisual, también abarco otras áreas de mi interés. ¡Te invito a verlos y aportar!
 
 **Destacados**
 - [Rompiendo Barreras | Plataforma de esutiods en linea](https://github.com/matiast86/PT21A-Grupo5-PF-Backend)
