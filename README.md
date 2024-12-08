@@ -8,7 +8,7 @@ Bueno peliculas no, a veces lo obvio es lo menos obvio. Te encontraras proyectos
 
 **¿Qué tecnologias/lenguages suelo  usar?**
 Actualmente trabajo con:
-
+![Nodejs](node-js-svgrepo-com.svg)
 Pero me gusta POO y todo lo que implique automatizar, así que espero agregar lenguajes como Java o Kotlin y Phyton, prximamente
 
 **¿Que si me interesa colaborar en proyectos open source? Claro!**   
