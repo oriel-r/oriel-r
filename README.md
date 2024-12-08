@@ -1,9 +1,3 @@
----
-output:
-  html_document:
-    theme: yeti
----
-
 ## Entonces ¿De creativo a programador?
 Asi es, y si venis de mis otras redes ya sabes a que viene esto esto, pero como dicen por ahi, el publico se renueva así que en els siguiente parrafor te dejo un breve resumen
 
@@ -21,17 +15,3 @@ Pero me gusta POO y todo lo que implique automatizar, así que espero agregar le
 Aca viene la letra chica, todo depende también del proyecto y los requirimientos del mismo. Pero siempre y cuando pueda aportar algo y los tiempos me den, ahí estare
 
 
-<!--
-**oriel-r/oriel-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
