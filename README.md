@@ -5,7 +5,7 @@ Soy técnico en informática y me forme como desarrollodor web, más concretamen
 
 Durante este tiempo, noté cómo el software podía facilitar mi trabajo, aunque no siempre encontraba herramientas adecuadas. Fan de Excel y ahora amante de Notion, decidí crear mis propias soluciones. Así, retomé mi formación técnica, participé en un bootcamp, ¡y acá estamos!
 
-**¿Que podes encontrar aca?** 
+**¿Que podes encontrar aca?**  
 Te encontrarás con proyectos en los cuales busco formas creativas de solucionar problemas, haciendo que las cosas pasen. No siempre relacionados con el sector audiovisual, también abarco otras áreas de mi interés. ¡Te invito a verlos y aportar!
 
 **Destacados**
