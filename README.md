@@ -15,14 +15,14 @@ Bueno peliculas no, a veces lo obvio es lo menos obvio. Te encontraras proyectos
 <details>
   <summary><b>¿Con qué tecnologías trabajo?</b></summary>
   <p>Actualmente con</p>
-  <img src="assets/react-logo-programming-2-svgrepo-com(1).svg" alt="Ejemplo de imagen" width="50">
-  <img src="assets/javascript-155-svgrepo-com.svg" alt="Ejemplo de imagen" width="50">
-  <img src="assets/typescript-svgrepo-com.svg" alt="Ejemplo de imagen" width="50">
-  <img src="node-js-svgrepo-com.svg" alt="Ejemplo de imagen" width="50">
-  <img src="assets/express-svgrepo-com.svg" alt="Ejemplo de imagen" width="50">
-  <img src="assets/nestjs-svgrepo-com.svg" alt="Ejemplo de imagen" width="50">
-  <img src="assets/node-js-svgrepo-com.svg" alt="Ejemplo de imagen" width="50">
-  <img src="node-js-svgrepo-com.svg" alt="Ejemplo de imagen" width="50">
+    <img src="assets/react-logo-programming-2-svgrepo-com(1).svg" alt="Ejemplo de imagen" width="50">
+    <img src="assets/javascript-155-svgrepo-com.svg" alt="Ejemplo de imagen" width="50">
+    <img src="assets/typescript-svgrepo-com.svg" alt="Ejemplo de imagen" width="50">
+   <img src="node-js-svgrepo-com.svg" alt="Ejemplo de imagen" width="50">
+    <img src="assets/express-svgrepo-com.svg" alt="Ejemplo de imagen" width="50">
+    <img src="assets/nestjs-svgrepo-com.svg" alt="Ejemplo de imagen" width="50">
+    <img src="assets/node-js-svgrepo-com.svg" alt="Ejemplo de imagen" width="50">
+    <img src="node-js-svgrepo-com.svg" alt="Ejemplo de imagen" width="50">
   
 </details>
 
