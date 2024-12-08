@@ -11,11 +11,11 @@ Bueno peliculas no, a veces lo obvio es lo menos obvio. Te encontraras proyectos
 
 **Preguntas frecuentes**
 <details>
-  <summary><b>¿Con qué tecnologías trabajo?</b>b</summary>
-  <p>Contenido del desplegable</p>
+  <summary><b>¿Con qué tecnologías trabajo?</b></summary>
+  <p>Actualmente con</p>
+<img src="node-js-svgrepo-com.svg" alt="Ejemplo de imagen" width="50">
 </details>
 Actualmente trabajo con:
-<img src="node-js-svgrepo-com.svg" alt="Ejemplo de imagen" width="100">
 
 Pero me gusta POO y todo lo que implique automatizar, así que espero agregar lenguajes como Java o Kotlin y Phyton, prximamente
 
