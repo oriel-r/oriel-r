@@ -13,7 +13,7 @@ Bueno peliculas no, a veces lo obvio es lo menos obvio. Te encontraras proyectos
 <details>
   <summary><b>¿Con qué tecnologías trabajo?</b></summary>
   <p>Actualmente con</p>
-<img src="node-js-svgrepo-com.svg" alt="Ejemplo de imagen" width="50">>
+<img src="node-js-svgrepo-com.svg" alt="Ejemplo de imagen" width="50">
   <summary><b>¿Me interesa alguna otra tecnologia en particular?</b></summary>
   <p>Contenido del desplegable</p>
   <summary><b>¿Me interesa alguna tecnologia en particular?</b></summary>
