@@ -1,12 +1,12 @@
 ## Entonces ¿De creativo a programador?
-Asi es, y si venis de mis otras redes ya sabes a que viene esto esto, pero como dicen por ahi, el publico se renueva así que en los siguiente parrafor te dejo un breve resumen
+¡Así es! Y si venís de mis otras redes, ya sabés de qué va esto. Pero, como dicen por ahí, el público se renueva, así que en los siguientes párrafos te dejo un breve resumen.
 
-Soy técnico en informatica y me especialize en el desarrollo web, pero algo paso en el medio... Antes de formarme como desarrollador estudie cine, y en este rubro lo que más me gusta es la pruducción, que para resumir un poco consiste en: encontrar soluciones creativas a problemas para hacer que las cosas pasen.
+Soy técnico en informática y me forme como desarrollodor web, más concretamente en back-end, pero algo pasó en el medio... Antes de formarme como desarrollador, estudié cine. En este rubro, lo que más me gusta es la producción, que, para resumirlo un poco, consiste en: encontrar soluciones creativas a problemas para hacer que las cosas pasen.
 
-Durante este tiempo, noté cómo el software podía facilitar mi trabajo, aunque no siempre encontraba herramientas adecuadas. Fan de Excel y ahora amante de Notion, decidí crear mis propias soluciones. Así, retomé mi formación técnica, participe en un bootcamp, ¡y aca estamos!
+Durante este tiempo, noté cómo el software podía facilitar mi trabajo, aunque no siempre encontraba herramientas adecuadas. Fan de Excel y ahora amante de Notion, decidí crear mis propias soluciones. Así, retomé mi formación técnica, participé en un bootcamp, ¡y acá estamos!
 
 **¿Que podes encontrar aca?** 
-Te encontraras proyectos en los cuales _busco formas creativas de solucionar problemas, haciendo que las cosas pasen_. No aiempre relacionados con el setor audiobisual, también en otras areas de mi interes, te invito a verlos y aportar!
+Te encontrarás con proyectos en los cuales busco formas creativas de solucionar problemas, haciendo que las cosas pasen. No siempre relacionados con el sector audiovisual, también abarco otras áreas de mi interés. ¡Te invito a verlos y aportar!
 
 **Destacados**
 - [Rompiendo Barreras | Plataforma de esutiods en linea](https://github.com/matiast86/PT21A-Grupo5-PF-Backend)
@@ -23,6 +23,11 @@ Te encontraras proyectos en los cuales _busco formas creativas de solucionar pro
     <img src="assets/nestjs-svgrepo-com.svg" alt="Ejemplo de imagen" width="45">
     <img src="assets/node-js-svgrepo-com.svg" alt="Ejemplo de imagen" width="45">
     <img src="node-js-svgrepo-com.svg" alt="Ejemplo de imagen" width="45">  
+</details>
+
+<details>
+  <summary><b>¿Soy ''Full stack''?</b></summary>
+  <p>Aunque me especialicé en back-end, realmentet tengo las habilidades para encarar proyectos de manera integral</p>
 </details>
 
 <details>
