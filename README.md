@@ -1,6 +1,8 @@
-# LOS creativos y los programadores tienen más en comun de lo que piensan...
-A la hora de resolver de resolver problemas, estudios han demostrado que una de las partes del cerebro con mayor actividad es el lobulo frontal. El cual también se activa al momento de realizar actividades creativas.
-Soy Oriel Romero, Técnico en informatica especializado con background en producción y realización audiovisual... Para que se entienda mejor, me forme como técnio, luego se me dio por ser artis y al final me di cuenta que extrañaba estar rodeado de computadoras!
+# Entonces ¿De creativo a programador?
+Asi es, y si venis de mis otras redes ya sabes a que viene esto esto, pero como dicen por ahi, el publico se renueva así que en els siguiente parrafor te dejo un breve resumen
+
+Soy técnico en informatica y me especialize en el desarrollo web, pero esto no ocurrio de un día para el otro. Antes de formarme como desarrollador estudie cine, dentro de este rubro el area donde más comodo me siento es la producción, armando presupuestos, buscando financiamiento, gestionando equipos y de manera resumida, buscando formas creativas de solucionar problemas para hacer que las cosas pasen. En este proceso me encontrba constantemente con tareas que podia facilitarme usando herramintas de software, era muy fan de excel y ahora lo soy de notion; pero no siempre las cosas salian como queria, al no haber siempre herramientas  especificas para mi sector, entonces pense ¿Por qué no las hago yo? Desempolve mi diploma de técnico, me inscribi en un bootcamp y bueno aca estamos!
+
 
 ¿Pero esto que tiene que ver  con github? Bueno, existe un area en el rubro audiovisual, en la que me siento muy comodo y les voy a explica
 
