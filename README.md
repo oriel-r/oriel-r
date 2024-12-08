@@ -3,7 +3,7 @@
 
 Soy técnico en informática y me forme como desarrollodor web, más concretamente en back-end, pero algo pasó en el medio... Antes de formarme como desarrollador, estudié cine; En este rubro lo que más me gusta es la producción, que para resumirlo un poco consiste en: encontrar soluciones creativas a problemas para hacer que las cosas pasen.
 
-Durante este tiempo, noté cómo el software podía facilitar mi trabajo, aunque no siempre encontraba herramientas adecuadas. Fan de Excel y ahora amante de Notion, decidí crear mis propias soluciones. Así, retomé mi formación técnica, participé en un bootcamp, ¡y acá estamos!
+Durante este tiempo, noté cómo el software podía facilitar mi trabajo, aunque no siempre encontraba herramientas adecuadas. Fan de Excel y ahora amante de Notion, decidí crear mis propias soluciones. Así retomé mi formación técnica, participé en un bootcamp, ¡y acá estamos!
 
 **¿Que podes encontrar aca?**  
 Te encontrarás con proyectos en los cuales _busco formas creativas de solucionar problemas, haciendo que las cosas pasen_. No siempre relacionados estrictamente con el sector audiovisual, también abarco otras áreas de mi interés. ¡Te invito a verlos y aportar!
