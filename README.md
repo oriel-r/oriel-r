@@ -13,18 +13,20 @@ Bueno peliculas no, a veces lo obvio es lo menos obvio. Te encontraras proyectos
 <details>
   <summary><b>¿Con qué tecnologías trabajo?</b></summary>
   <p>Actualmente con</p>
-<img src="node-js-svgrepo-com.svg" alt="Ejemplo de imagen" width="50">
-</details>
-Actualmente trabajo con:
-
-Pero me gusta POO y todo lo que implique automatizar, así que espero agregar lenguajes como Java o Kotlin y Phyton, prximamente
-
-<details>
-  <summary>Hacer clic para ver más</summary>
+<img src="node-js-svgrepo-com.svg" alt="Ejemplo de imagen" width="50">>
+  <summary><b>¿Me interesa alguna otra tecnologia en particular?</b></summary>
+  <p>Contenido del desplegable</p>
+  <summary><b>¿Me interesa alguna tecnologia en particular?</b></summary>
+  <p>Contenido del desplegable</p>
+  <summary><b>¿Quiero colaborar en proyectos?</b></summary>
+  <p>Contenido del desplegable</p>
+  <summary><b>¿Que licencia tienen mis desarrollos?</b></summary>
+  <p>Contenido del desplegable</p>
+  <summary><b>¿Uso IA a la hora de programar?</b></summary>
+  <p>Contenido del desplegable</p>
+  <summary><b>¿Cómo te contacto?</b></summary>
   <p>Contenido del desplegable</p>
 </details>
 
-**¿Que si me interesa colaborar en proyectos open source? Claro!**   
-Aca viene la letra chica, todo depende también del proyecto y los requirimientos del mismo. Pero siempre y cuando pueda aportar algo y los tiempos me den, ahí estare
 
 
