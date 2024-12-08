@@ -15,7 +15,7 @@ Bueno peliculas no, a veces lo obvio es lo menos obvio. Te encontraras proyectos
 <details>
   <summary><b>¿Con qué tecnologías trabajo?</b></summary>
   <p>Actualmente con</p>
-  ![React](iloveimg-resized/nestjs-svgrepo-com.svg)
+  ![React](express-svgrepo-com.svg)
     <img src="assets/javascript-155-svgrepo-com.svg" alt="Ejemplo de imagen" width="40">
     <img src="assets/typescript-svgrepo-com.svg" alt="Ejemplo de imagen" width="40">
    <img src="node-js-svgrepo-com.svg" alt="Ejemplo de imagen" width="50">
